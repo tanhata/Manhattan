@@ -8,6 +8,6 @@ Code uses ```pandas```,```numpy```, ```sodapy``` and ```cenpy``` organize the po
 
 Using ```geopandas```, and ```matplotlib```, this correlation was visualized.
 
-![](axo_greendensity.gif)
-
 [Full project can be seen here.](https://tanhatabassum.com/spatial-determinants-of-cities)
+
+![](axo_greendensity.gif)
