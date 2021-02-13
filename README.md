@@ -1,4 +1,4 @@
-# Manhattan
+# Manhattan Spatial Data
 
 Code assembled for Urban Conditions and Spatial Determinents of Health, Advanced Architectural Studio at the Spitzer School of Architecture.
 
